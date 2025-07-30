@@ -23,9 +23,10 @@ credit-portfolio-optimization/
 ├── reports/
 │   └── Credit_Portfolio_Optimization_Report.pdf
 ├── notebooks/
-│   └── (optional Jupyter notebooks)
-├── utils/
-│   └── (calculation modules if separated)
+│   ├── module_1_simulation.py
+│   ├── module_2_rwa_calculation.py
+│   ├── module_3_optimization.py
+│   └──module_4_prepare_powerbi.py
 ├── requirements.txt
 └── README.md
 ```
@@ -67,8 +68,8 @@ credit-portfolio-optimization/
 
 ## 📝 License
 
-This project is provided for academic and internal quantitative risk management use only.
+This project is provided as a personal project for my use only.
 
 ---
 
-*Developed by a Credit Risk Analyst for internal simulation and strategic capital planning.*
+*Developed by Saliou Cisse - Data Scientist / Quant Analyst
